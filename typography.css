@@ -1,0 +1,56 @@
+.typography--variant-h1 {
+  @apply text-6xl font-bold;
+}
+
+.typography--variant-h2 {
+  @apply text-5xl font-medium;
+}
+
+.typography--variant-h3 {
+  @apply text-4xl font-medium;
+}
+
+.typography--variant-h4 {
+  @apply text-3xl font-medium;
+}
+
+.typography--variant-h5 {
+  @apply text-2xl font-medium;
+}
+
+.typography--variant-h6 {
+  @apply text-xl font-medium;
+}
+
+.typography--variant-subheading1 {
+  @apply text-lg font-medium;
+}
+
+.typography--variant-subheading2 {
+  @apply text-base font-medium;
+}
+
+.typography--variant-body1 {
+  @apply text-base font-normal;
+}
+
+.typography--variant-body2 {
+  @apply text-sm font-normal;
+}
+
+/* Optional color classes, customize as needed */
+.typography--color-primary {
+  @apply text-primary;
+}
+
+.typography--color-secondary {
+  @apply text-secondary;
+}
+
+.typography--color-accent {
+  @apply text-accent;
+}
+
+.typography--color-muted {
+  @apply text-muted-foreground;
+}
